@@ -5,3 +5,7 @@ h1{
     margin-top: 0 auto;
     padding: 5px;
 }
+ul li{
+    list-style: square;
+    
+}
